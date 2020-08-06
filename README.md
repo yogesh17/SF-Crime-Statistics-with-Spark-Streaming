@@ -77,4 +77,3 @@ Setting spark.default.parallelism to 100 vs 5000 improved  **processedRowsPerSec
 
 
 
-```
